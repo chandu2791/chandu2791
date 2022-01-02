@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chandra Sekhar, Studied M.Tech in Chemical Technologys
+- 👋 Hi, I’m Chandra Sekhar, Studied M.Tech in Chemical Technology.
 - 👀 I’m interested in Data science and Machine learning projects
 - 🌱 I’m currently learning AI&ML
 - 💞️ I’m looking to collaborate on real time projects
